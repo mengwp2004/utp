@@ -1,0 +1,8 @@
+nose-parameterized # 参数化的模块
+xlrd
+requests
+xlutils
+mlplog
+yagmail  用牛牛给的
+jsonpath  #多层字典取值$..key
+BeautifulReport
